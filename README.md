@@ -105,9 +105,6 @@ Achieved geometrically and temporally consistent video synthesis aligned with tr
 ## 📞 Contact
 
 - **Email:** [2311399@tongji.edu.cn](mailto:2311399@tongji.edu.cn)  
-- **Phone:** 19946251963  
-- **Age:** 25  
-
 ---
 
 ## ✨ Research Highlights
