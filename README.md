@@ -57,7 +57,7 @@ Provided continuous depth supervision through LiDAR fields, improving robustness
 
 ---
 
-### 🎥 Trajectory-Guided 4D Video Generation with HexPlane Representation  
+### 🎥 Efficient Trajectory-Conditioned Text-to-4D Gaussian Splatting  
 *(Submitted to ICRA 2026, Third Author)*  
 2024.09 – 2025.08  
 Explored **4D trajectory-conditioned video generation** using HexPlane spatiotemporal representations combined with Stable Diffusion, DreamGaussian, and Stable Video Diffusion.  
@@ -67,7 +67,7 @@ Achieved geometrically and temporally consistent video synthesis aligned with tr
 
 ## 🏢 Internship Experience
 
-**NIO (蔚来汽车) – Machine Learning Intern, Battery Cloud Department**  
+**NIO – Machine Learning Intern, Battery Cloud Department**  
 *2022.09 – 2023.01*  
 - Used Python & MySQL to monitor vehicle data and analyze battery SOC/SOH.  
 - Designed PowerBI dashboards for real-time battery health visualization.
