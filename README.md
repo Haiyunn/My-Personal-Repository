@@ -23,13 +23,31 @@ I am passionate about exploring how generative models (e.g., diffusion, neural f
 | Ph.D. (in progress) | Tongji University | 2023.09 – Present | 88.53 / 100 | Vehicle Engineering (AI & Autonomous Driving) |
 | B.Eng. | Tongji University | 2018.09 – 2023.06 | 90.47 / 100 | Vehicle Engineering (Automotive Electronics and Intelligence) |
 
-**Honors & Awards**
-- National Inspirational Scholarship (x2)
-- Outstanding Student Scholarship (Top 5%, 4 years)
-- Yunnei Power Scholarship
-- “Excellent Graduate of Tongji University” (Top 4%)
+# Honors & Awards
 
----
+## 2022–2021
+- **National Inspirational Scholarship, First Class** (Top 5%)
+- **Outstanding Student Scholarship, First Class** (Top 5%)
+
+## 2021–2020
+- **Outstanding Student Scholarship, First Class** (Top 5%)
+
+## 2020–2019
+- **Yunnei Power Scholarship**
+
+## 2019–2018
+- **National Inspirational Scholarship, First Class** (Top 5%)
+- **Outstanding Student Scholarship, First Class** (Top 5%)
+- **Social Activity Scholarship**
+
+# Honors & Titles
+
+## 2022–2018
+- Awarded **"Outstanding Student of Tongji University"** 4 times (Top 5%)
+
+## 2023
+- **"Excellent Graduate of Tongji University"** (Top 4%)
+
 
 ## 🔬 Research Experience
 
